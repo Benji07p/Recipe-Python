@@ -1,2 +1,4 @@
 # Recipe-Python
-Recipe
+It is a exercice.
+The instructions:
+Create a little program
