@@ -1,4 +1,3 @@
-print ()
 n = float(input("Combien de personnes ? \n"))
 oeufs = n*3//4
 chocolat = n*100//4
