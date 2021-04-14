@@ -1,6 +1,5 @@
-print ("Combien de personnes ?")
-print ("taper n = (nombres de personnes)")
-n = 3
+print ()
+n = float(input("Combien de personnes ? \n"))
 oeufs = n*3//4
 chocolat = n*100//4
 sucre_vanille = n*1/4
